@@ -1,3 +1,4 @@
+# FYP
 ## Project Title
 DiagnoXpert
 
@@ -20,4 +21,3 @@ git clone git@github.com:EmanDeveloper/FYP.git
 ```
 
 Make sure you have added your SSH key to your GitHub account before cloning.
-# FYP
